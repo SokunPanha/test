@@ -57,7 +57,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <Image
-            aria-hidden
+            aria-details=""
             src="https://nextjs.org/icons/file.svg"
             alt="File icon"
             width={16}
